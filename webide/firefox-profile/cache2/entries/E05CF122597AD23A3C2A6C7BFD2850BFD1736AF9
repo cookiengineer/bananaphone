@@ -1,0 +1,485 @@
+{
+  "TYPES": [
+    "phones",
+    "tablets",
+    "laptops",
+    "televisions"
+  ],
+  "phones": [
+    {
+      "name": "Galaxy Note 3",
+      "featured": false,
+      "width": 360,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 3,
+      "height": 640
+    },
+    {
+      "name": "Galaxy Note 9",
+      "width": 414,
+      "height": 846,
+      "pixelRatio": 3.5,
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.0; SM-G892A Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36",
+      "touch": true,
+      "os": "Android"
+    },
+    {
+      "name": "Galaxy S5",
+      "featured": false,
+      "width": 360,
+      "userAgent": "Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 3,
+      "height": 640
+    },
+    {
+      "name": "Galaxy S9/S9+",
+      "featured": false,
+      "width": 360,
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.0; SM-G892A Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36",
+      "touch": true,
+      "os": "Android",
+      "pixelRatio": 4,
+      "height": 740
+    },
+    {
+      "name": "Galaxy S10/S10+",
+      "featured": true,
+      "width": 360,
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.2 Chrome/87.0.4280.141 Mobile Safari/537.36",
+      "touch": false,
+      "os": "Android",
+      "pixelRatio": 4,
+      "height": 760
+    },
+    {
+      "name": "Galaxy S20",
+      "featured": true,
+      "width": 360,
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.2 Chrome/87.0.4280.141 Mobile Safari/537.36",
+      "touch": true,
+      "os": "Android",
+      "pixelRatio": 4,
+      "height": 800
+    },
+    {
+      "name": "Galaxy S20 Ultra",
+      "featured": true,
+      "width": 412,
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.2 Chrome/87.0.4280.141 Mobile Safari/537.36",
+      "touch": true,
+      "os": "Android",
+      "pixelRatio": 3.5,
+      "height": 915
+    },
+    {
+      "name": "Galaxy S20+",
+      "featured": true,
+      "width": 384,
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.2 Chrome/87.0.4280.141 Mobile Safari/537.36",
+      "touch": true,
+      "os": "Android",
+      "pixelRatio": 3.75,
+      "height": 854
+    },
+    {
+      "name": "Galaxy Note 20",
+      "featured": true,
+      "width": 412,
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.2 Chrome/87.0.4280.141 Mobile Safari/537.36",
+      "touch": true,
+      "os": "Android",
+      "pixelRatio": 2.625,
+      "height": 915
+    },
+    {
+      "name": "Galaxy Note 20 Ultra",
+      "featured": true,
+      "width": 412,
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.2 Chrome/87.0.4280.141 Mobile Safari/537.36",
+      "touch": true,
+      "os": "Android",
+      "pixelRatio": 3.5,
+      "height": 883
+    },
+    {
+      "name": "LG Optimus L70",
+      "featured": false,
+      "width": 384,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; LGMS323 Build/KOT49I.MS32310c) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 1.25,
+      "height": 640
+    },
+    {
+      "name": "Microsoft Lumia 550",
+      "featured": false,
+      "width": 360,
+      "userAgent": "Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; Microsoft; Lumia 550) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Mobile Safari/537.36 Edge/14.14263",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 2,
+      "height": 640
+    },
+    {
+      "name": "Microsoft Lumia 950",
+      "featured": false,
+      "width": 360,
+      "userAgent": "Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; Microsoft; Lumia 950) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Mobile Safari/537.36 Edge/14.14263",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 4,
+      "height": 640
+    },
+    {
+      "name": "Nexus 5X",
+      "featured": false,
+      "width": 412,
+      "userAgent": "Mozilla/5.0 (Linux; Android 8.0.0; Nexus 5X Build/OPR4.170623.006) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 2.625,
+      "height": 732
+    },
+    {
+      "name": "Nexus 6P",
+      "featured": false,
+      "width": 412,
+      "userAgent": "Mozilla/5.0 (Linux; Android 8.0.0; Nexus 6P Build/OPP3.170518.006) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 3.5,
+      "height": 732
+    },
+    {
+      "name": "Nokia 8110 4G",
+      "width": 240,
+      "height": 320,
+      "pixelRatio": 1,
+      "userAgent": "Mozilla/5.0 (Mobile; Nokia 8110 4G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5",
+      "touch": true,
+      "os": "KaiOS"
+    },
+    {
+      "name": "Pixel 2",
+      "featured": false,
+      "width": 411,
+      "userAgent": "Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 2.625,
+      "height": 731
+    },
+    {
+      "name": "Pixel 2 XL",
+      "featured": false,
+      "width": 411,
+      "userAgent": "Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 3.5,
+      "height": 823
+    },
+    {
+      "name": "Pixel 5",
+      "featured": false,
+      "width": 393,
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Mobile Safari/537.36",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 2.75,
+      "height": 851
+    },
+    {
+      "name": "iPhone 5/SE",
+      "featured": false,
+      "width": 320,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1",
+      "touch": true,
+      "os": "iOS",
+      "pixelRatio": 2,
+      "height": 568
+    },
+    {
+      "name": "iPhone 6/7/8",
+      "featured": false,
+      "width": 375,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1",
+      "touch": true,
+      "os": "iOS",
+      "pixelRatio": 2,
+      "height": 667
+    },
+    {
+      "name": "iPhone 6/7/8 Plus",
+      "featured": false,
+      "width": 414,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1",
+      "touch": true,
+      "os": "iOS",
+      "pixelRatio": 3,
+      "height": 736
+    },
+    {
+      "name": "iPhone X/XS",
+      "featured": false,
+      "width": 375,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/12.0 Mobile/15A372 Safari/604.1",
+      "touch": true,
+      "os": "iOS",
+      "pixelRatio": 3,
+      "height": 812
+    },
+    {
+      "name": "iPhone XR/11",
+      "featured": false,
+      "width": 414,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/12.0 Mobile/15A372 Safari/604.1",
+      "touch": true,
+      "os": "iOS",
+      "pixelRatio": 2,
+      "height": 896
+    },
+    {
+      "name": "iPhone XS Max",
+      "featured": false,
+      "width": 414,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/12.0 Mobile/15A372 Safari/604.1",
+      "touch": true,
+      "os": "iOS",
+      "pixelRatio": 3,
+      "height": 896
+    },
+    {
+      "name": "iPhone 11 Pro",
+      "featured": true,
+      "width": 375,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1",
+      "touch": true,
+      "os": "iOS",
+      "pixelRatio": 3,
+      "height": 812
+    },
+    {
+      "name": "iPhone 11 Pro Max",
+      "featured": true,
+      "width": 414,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1",
+      "touch": true,
+      "os": "iOS",
+      "pixelRatio": 3,
+      "height": 896
+    },
+    {
+      "name": "iPhone SE 2nd gen",
+      "featured": true,
+      "width": 375,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1",
+      "touch": true,
+      "os": "iOS",
+      "pixelRatio": 2,
+      "height": 667
+    },
+    {
+      "name": "iPhone 12/13 + Pro",
+      "featured": true,
+      "width": 390,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1",
+      "touch": true,
+      "os": "iOS",
+      "pixelRatio": 3,
+      "height": 844
+    },
+    {
+      "name": "iPhone 12/13 Pro Max",
+      "featured": true,
+      "width": 428,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1",
+      "touch": true,
+      "os": "iOS",
+      "pixelRatio": 3,
+      "height": 926
+    },
+    {
+      "name": "iPhone 12/13 mini",
+      "featured": true,
+      "width": 375,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1",
+      "touch": true,
+      "os": "iOS",
+      "pixelRatio": 3,
+      "height": 812
+    }
+  ],
+  "tablets": [
+    {
+      "name": "Kindle Fire HDX",
+      "featured": true,
+      "width": 800,
+      "userAgent": "Mozilla/5.0 (Linux; U; en-us; KFAPWI Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Silk/3.13 Safari/535.19 Silk-Accelerated=true",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 2,
+      "height": 1280
+    },
+    {
+      "name": "Nexus 10",
+      "featured": false,
+      "width": 800,
+      "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 10 Build/MOB31T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 2,
+      "height": 1280
+    },
+    {
+      "name": "Nexus 7",
+      "featured": false,
+      "width": 600,
+      "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 7 Build/MOB30X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 2,
+      "height": 960
+    },
+    {
+      "name": "iPad",
+      "featured": true,
+      "width": 810,
+      "userAgent": "Mozilla/5.0 (iPad; CPU OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Mobile/15E148 Safari/604.1",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 2,
+      "height": 1080
+    },
+    {
+      "name": "iPad Mini",
+      "featured": false,
+      "width": 768,
+      "userAgent": "Mozilla/5.0 (iPad; CPU OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Mobile/15E148 Safari/604.1",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 2,
+      "height": 1024
+    },
+    {
+      "name": "iPad Pro (11-inch)",
+      "width": 834,
+      "height": 1194,
+      "pixelRatio": 2,
+      "userAgent": "Mozilla/5.0 (iPad; CPU OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Mobile/15E148 Safari/604.1",
+      "touch": true,
+      "os": "iOS"
+    },
+    {
+      "name": "iPad Pro (12.9-inch)",
+      "width": 1024,
+      "height": 1366,
+      "pixelRatio": 2,
+      "userAgent": "Mozilla/5.0 (iPad; CPU OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Mobile/15E148 Safari/604.1",
+      "touch": true,
+      "os": "iOS"
+    },
+    {
+      "name": "iPad Air",
+      "width": 820,
+      "height": 1180,
+      "pixelRatio": 2,
+      "userAgent": "Mozilla/5.0 (iPad; CPU OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Mobile/15E148 Safari/604.1",
+      "touch": true,
+      "os": "iOS"
+    }
+  ],
+  "laptops": [
+    {
+      "name": "Laptop with HiDPI screen",
+      "featured": false,
+      "width": 1440,
+      "height": 900,
+      "userAgent": "",
+      "touch": false,
+      "os": "",
+      "pixelRatio": 2
+    },
+    {
+      "name": "Laptop with MDPI screen",
+      "featured": false,
+      "width": 1280,
+      "height": 800,
+      "userAgent": "",
+      "touch": false,
+      "os": "",
+      "pixelRatio": 1
+    },
+    {
+      "name": "Laptop with touch",
+      "featured": false,
+      "width": 1280,
+      "height": 950,
+      "userAgent": "",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 1
+    }
+  ],
+  "televisions": [
+    {
+      "name": "1080p Full HD Television",
+      "width": 1920,
+      "height": 1080,
+      "pixelRatio": 1,
+      "userAgent": "",
+      "touch": false,
+      "os": "custom"
+    },
+    {
+      "name": "4K Ultra HD Television",
+      "width": 3840,
+      "height": 2160,
+      "pixelRatio": 1,
+      "userAgent": "",
+      "touch": false,
+      "os": "custom"
+    },
+    {
+      "name": "720p HD Television",
+      "width": 1280,
+      "height": 720,
+      "pixelRatio": 1,
+      "userAgent": "",
+      "touch": false,
+      "os": "custom"
+    }
+  ]
+}
+Ü’ê≠–      b’2tb’2tDÅxôbﬁIº   2    :https://code.cdn.mozilla.net/devices/devices.json necko:classified 1 strongly-framed 1 security-info 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 request-method GET response-head HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 14238
+Last-Modified: Fri, 01 Oct 2021 12:13:56 GMT
+Accept-Ranges: bytes
+Server: AmazonS3
+Date: Mon, 18 Jul 2022 07:43:58 GMT
+Etag: "a756028e66d70b657f5008a1b36449b7"
+x-cache: Hit from cloudfront
+via: 1.1 91220e34cbdd95f669dbfd83e711fee6.cloudfront.net (CloudFront)
+x-amz-cf-pop: MUC50-P2
+x-amz-cf-id: 1UJJItILV9UyMgPV7wlAlPNTgvfYBB3-0JoveSoQrkX30w8vupJyzw==
+Age: 8602
+ original-response-headers Content-Type: application/json
+Content-Length: 14238
+Connection: keep-alive
+Last-Modified: Fri, 01 Oct 2021 12:13:56 GMT
+Accept-Ranges: bytes
+Server: AmazonS3
+Date: Mon, 18 Jul 2022 07:43:58 GMT
+Etag: "a756028e66d70b657f5008a1b36449b7"
+x-cache: Hit from cloudfront
+via: 1.1 91220e34cbdd95f669dbfd83e711fee6.cloudfront.net (CloudFront)
+x-amz-cf-pop: MUC50-P2
+x-amz-cf-id: 1UJJItILV9UyMgPV7wlAlPNTgvfYBB3-0JoveSoQrkX30w8vupJyzw==
+Age: 8602
+   7û

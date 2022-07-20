@@ -40,7 +40,15 @@ In order to fix this for our local (technically outdated) Firefox ESR installati
 we need to do the following:
 
 - Visit `about:config` and set `devtools.webide.enabled` to `true`.
+- Visit `about:config` and set `app.update.auto` to `false`.
+- Visit `about:config` and set `app.update.enabled` to `false`.
+- Visit `about:config` and set `app.update.url` to `""`.
+- Visit `about:config` and set `extensions.update.enabled` to `false`.
+- Visit `about:config` and set `extensions.update.autoUpdateDefault` to `false`.
+- Visit `about:config` and set `extensions.update.url` to `""`.
 - Visit `about:config` and set `xpinstall.signatures.required` to `false`.
+- Visit `about:config` and set `browser.newtabpage.enabled` to `false`.
+- Visit `about:config` and set `browser.newtabpage.enhanced` to `false`.
 - Install the [ADB Helper Extension](./webide/adbhelper-linux64-latest.xpi).
 - Restart the Browser.
 - Open a new Tab, open the Browser Console (`Ctrl + Shift + K` or `Inspect Element > Console Tab`).
@@ -204,4 +212,11 @@ sideloading Apps.
 # 9.c) Rooting via Exploit
 
 // TODO: Document Firefox RCE / Linux Privilege Escalation Rooting Procedure
+
+
+# 9.d) Rooting via EDL Process
+
+- Pull the boot partition from the device.
+- Patch the boot partition via [8k-boot-patcher](./rooting/8k-boot-patcher) which injects the already rooted `adbd` binary.
+- Flash the patched boot partition back to the device.
 

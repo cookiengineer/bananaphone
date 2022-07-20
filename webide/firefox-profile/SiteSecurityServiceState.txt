@@ -1,0 +1,7 @@
+search.services.mozilla.com:HSTS	0	19191	1689675188167,1,0
+firefox.settings.services.mozilla.com:HSTS	0	19191	1689675083414,1,0
+services.addons.mozilla.org:HSTS	0	19191	1689675220427,1,0
+shavar.services.mozilla.com:HSTS	0	19191	1689675189663,1,1
+self-repair.mozilla.org:HSTS	0	19191	1689674862043,1,0
+blocklist.addons.mozilla.org:HSTS	0	19191	1658139381548,1,0
+location.services.mozilla.com:HSTS	0	19191	1689675187560,1,1
